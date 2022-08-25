@@ -1,5 +1,8 @@
-### Hi there 👋
+### Jillian Allison
 
+#### Education
+- **2018 - 2022** B.S. Earth Science (Geohydrology) *UC Santa Barbara*
+- **2022 - 2023** Master of Environmental Data Science (MEDS) *The Bren School of Environmental Science & Management, UC Santa Barbara* 
 <!--
 **jilliannallison/jilliannallison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
