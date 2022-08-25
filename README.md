@@ -1,6 +1,6 @@
 ### ✨ Jillian Allison ✨
 
-Hi! I'm currently a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science & Management (UCSB). This page is literally just homework assignments, so check back in 2 years for some hopefully cool projects!  
+Hi! I'm currently a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science & Management (UCSB). This page is pretty much just homework assignments, so check back in 2 years for some hopefully cool projects!  
 
 #### Education
 - **2018 - 2022** B.S. Earth Science (Geohydrology) *UC Santa Barbara*
