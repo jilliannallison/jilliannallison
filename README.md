@@ -3,8 +3,8 @@
 Hi! I'm currently a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science & Management (UCSB). This page is pretty much just homework assignments, so check back in 2 years for some hopefully cool projects!  
 
 #### Education
-- **2018 - 2022** B.S. Earth Science (Geohydrology) *UC Santa Barbara*
 - **2022 - 2023** Master of Environmental Data Science (MEDS) *The Bren School of Environmental Science & Management, UC Santa Barbara* 
+- **2018 - 2022** B.S. Earth Science (Geohydrology) *UC Santa Barbara*
 <!--
 **jilliannallison/jilliannallison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
